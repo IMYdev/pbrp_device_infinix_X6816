@@ -21,5 +21,5 @@ $(call inherit-product, vendor/pb/config/common.mk)
 PRODUCT_DEVICE := X6816
 PRODUCT_NAME := omni_X6816
 PRODUCT_BRAND := Infinix
-PRODUCT_MODEL := Infinix HOT 12 Play
+PRODUCT_MODEL := HOT 12 Play
 PRODUCT_MANUFACTURER := infinix
