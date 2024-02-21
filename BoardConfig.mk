@@ -166,9 +166,9 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_FRAMERATE := 60
 
 # Debug
-TWRP_INCLUDE_LOGCAT := true
-TARGET_USES_LOGD := true
+#TWRP_INCLUDE_LOGCAT := true
+#TARGET_USES_LOGD := true
 
 #PBRP_FLAGS
-PB_TORCH_PATH := "/sys/devices/virtual/torch/torch/torch_level"
-PB_TORCH_MAX_BRIGHTNESS := 1
+#PB_TORCH_PATH := "/sys/devices/virtual/torch/torch/torch_level"
+#PB_TORCH_MAX_BRIGHTNESS := 1
